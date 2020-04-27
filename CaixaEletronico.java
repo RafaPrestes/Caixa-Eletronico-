@@ -56,7 +56,7 @@ public class CaixaEletronico {
     }
     
     System.out.println("Conta Bloqueada");   
-   break;
+   System.exit(0);
    
    }
    }
